@@ -1,0 +1,44 @@
+body{
+    font-family: Roboto;
+    margin-left: 30px;
+}
+
+#navbar{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+#logo{
+    flex: none;
+    order: 0;
+}
+
+#navbar-items{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+
+    flex: none;
+    order: 1;
+}
+
+#navbar-item-0{
+    flex: none;
+    order: 0;
+}
+
+#navbar-item-1{
+    flex: none;
+    order: 1;
+}
+
+#navbar-item-2{
+    flex: none;
+    order: 2;
+}
+
+#navbar-item-3{
+    flex: none;
+    order: 3;
+}
