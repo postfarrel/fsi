@@ -23,22 +23,37 @@ body{
     order: 1;
 }
 
+ul{
+    list-style-type: none;
+}
+
 #navbar-item-0{
     flex: none;
     order: 0;
+    margin-left: 800px;
 }
 
 #navbar-item-1{
     flex: none;
     order: 1;
+    margin-left: 45px;
 }
 
 #navbar-item-2{
     flex: none;
     order: 2;
+    margin-left: 45px;
 }
 
 #navbar-item-3{
     flex: none;
     order: 3;
+    margin-left: 45px;
+}
+
+#auto-layout-top{
+    display: flex;
+    flex-direction: row;
+    flex: none;
+    gap: 35px;
 }
