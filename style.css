@@ -13,7 +13,7 @@
 
     order: 1;
     flex-grow: 0;
-    margin: 0px 448px;
+    margin: 0px 600px;
 }
 
 #navbar-item-0{
@@ -76,7 +76,7 @@
     flex: none;
     order: 2;
     flex-grow: 0;
-    margin: 0px px;
+    margin: 0px 45px;
 }
 
 #navbar-item-3{
@@ -109,7 +109,7 @@
     position: absolute;
     width: 1123px;
     height: 29px;
-    left: 79px;
+    left: 20px;
     top: 64px;
 }
 
@@ -131,5 +131,5 @@ color: #000000;
 flex: none;
 order: 0;
 flex-grow: 0;
-margin: 0px 448px;
+margin: 0px 50px;
 }
